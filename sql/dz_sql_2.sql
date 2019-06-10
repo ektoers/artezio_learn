@@ -1,0 +1,1 @@
+SELECT * FROM worker.workers where pay < 30000 and position = "cleaner";
